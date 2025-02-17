@@ -7,6 +7,7 @@ Project at Universidad Politecnica de Madrid.
 - **Data_visualization.ipynb** : This Jupyter Notebook shows a code that use python libraries as matplotlib.pyplot for plotting, pandas for data manipulation, drive from google.colab to access files from Google Drive, and seaborn for advanced data visualization. 
 - _dataset.csv_ : This is the dataset scraped by the python file "Scrapper.py". 
 - _Web Scraping and Data visualization_: This is the presentation the group made for the video. 
+![image](https://github.com/user-attachments/assets/bbc88b1d-8b90-405b-aea3-d0d57b9ca076)
 
 ---------------------------------------------------
 ### HOW TO EXECUTE THE CODE
